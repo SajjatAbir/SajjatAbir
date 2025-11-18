@@ -1,10 +1,10 @@
-[                                                                                                    
+                                                                                                  
   
   
   
   
                       
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=AFF7C4&width=291&height=70&lines=Hi..it's+Sajjat+)](https://git.io/typing-svg)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=AFF7C4&width=291&height=70&lines=Hi..it's+Sajjat+)]
 
 ### I'am cs student currently focusing on cybersecurity field, especially on the security operation domain.<br>                                                                                                                                        
 
