@@ -29,6 +29,6 @@
 ## 🌐Connect me with:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abirsajjathossain2@gmail.com)    
 
-  ## I mean if you want to..:
+  #### Please Buy me a coffee:
   
-   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ashifnewaz)
+   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sajjathossainabir)
