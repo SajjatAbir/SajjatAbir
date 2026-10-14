@@ -1,34 +1,63 @@
-                                                                                                  
-  
-  
-  
-  
-                      
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=AFF7C4&width=291&height=70&lines=Hi..it's+Sajjat+)
+<div align="center">
 
-### I'am cs student currently focusing on cybersecurity field, especially on the security operation domain.<br>                                                                                                                                        
+# Hi, I'm Sajjat 👋
 
+### Computer Science Student · Cybersecurity Learner
 
+Focused on security operations, defensive security, and practical learning.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sajjatabir&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sajjatabir&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjatabir&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Let's_connect-Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:abirsajjathossain2@gmail.com)
+[![GitHub](https://img.shields.io/badge/Explore_my_work-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SajjatAbir?tab=repositories)
 
-### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sajjatabir&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashifnewaz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐Connect me with:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abirsajjathossain2@gmail.com)    
+## About me
 
-  #### Please Buy me a coffee:
-  
-   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sajjathossainabir)
+I'm a computer science student building my foundation in cybersecurity, with a particular interest in security operations. I'm interested in how defenders investigate suspicious activity, understand system behavior, and use automation to make everyday security work easier.
+
+- **Main focus:** cybersecurity and security operations.
+- **Learning direction:** defensive security, investigation, and scripting.
+- **What I value:** clear documentation, practical exercises, and continuous improvement.
+
+## Technology interests
+
+Languages and tools I'm exploring as part of my learning journey:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+
+</div>
+
+## Portfolio direction
+
+Projects I'd like to build and document as I develop my skills:
+
+| Project idea | Goal | What I'd share |
+| --- | --- | --- |
+| Security log analyzer | Use Python to identify suspicious patterns in sample authentication logs. | Sample data, detection logic, tests, and example reports. |
+| Home SOC lab | Practice collecting and investigating events in an isolated lab. | Architecture, setup steps, screenshots, and investigation notes. |
+| Detection engineering notebook | Learn how to describe and validate suspicious behavior. | Detection rules, sample events, false positives, and limitations. |
+
+These are learning goals, rather than completed projects. Published work is available in my [repositories](https://github.com/SajjatAbir?tab=repositories).
+
+## Let's connect
+
+Interested in cybersecurity learning, student projects, or sharing useful resources? Reach me at **[abirsajjathossain2@gmail.com](mailto:abirsajjathossain2@gmail.com)**.
+
+<div align="center">
+
+<sub>Learning security through curiosity, practice, and documentation.</sub>
+
+[Support my learning on Ko-fi](https://ko-fi.com/sajjathossainabir)
+
+</div>
