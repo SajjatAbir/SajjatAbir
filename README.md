@@ -2,6 +2,8 @@
 
 # Hi, I'm Sajjat 👋
 
+![Animated introduction: learning cybersecurity, exploring security operations, building with Python](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Learning+cybersecurity;Exploring+security+operations;Building+with+Python)
+
 ### Computer Science Student · Cybersecurity Learner
 
 Focused on security operations, defensive security, and practical learning.
@@ -38,17 +40,29 @@ Languages and tools I'm exploring as part of my learning journey:
 
 </div>
 
-## Portfolio direction
+## Featured project
 
-Projects I'd like to build and document as I develop my skills:
+### 🛡️ Security log analyzer
 
-| Project idea | Goal | What I'd share |
+An educational Python command-line tool that finds repeated failed SSH passwords in offline logs and exports a JSON report.
+
+**Includes:** validated IPv4/IPv6 addresses · configurable threshold · synthetic sample logs · automated tests · documented limitations.
+
+[**Explore the project →**](projects/security-log-analyzer/README.md) · [Source code](projects/security-log-analyzer/analyzer.py) · [Tests](projects/security-log-analyzer/test_analyzer.py)
+
+```bash
+cd projects/security-log-analyzer
+python3 analyzer.py sample.log --threshold 3
+```
+
+## Learning roadmap
+
+| Next project | Learning goal | Planned deliverable |
 | --- | --- | --- |
-| Security log analyzer | Use Python to identify suspicious patterns in sample authentication logs. | Sample data, detection logic, tests, and example reports. |
-| Home SOC lab | Practice collecting and investigating events in an isolated lab. | Architecture, setup steps, screenshots, and investigation notes. |
-| Detection engineering notebook | Learn how to describe and validate suspicious behavior. | Detection rules, sample events, false positives, and limitations. |
+| Home SOC lab | Collect and investigate events in an isolated lab. | Architecture diagram, setup guide, and investigation notes. |
+| Detection engineering notebook | Describe and validate suspicious behavior. | Rules, sample events, false positives, and limitations. |
 
-These are learning goals, rather than completed projects. Published work is available in my [repositories](https://github.com/SajjatAbir?tab=repositories).
+These roadmap items are planned; the log analyzer above is available to run now.
 
 ## Let's connect
 
