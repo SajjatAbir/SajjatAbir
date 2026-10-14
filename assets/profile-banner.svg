@@ -1,12 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Sajjat Hossain Abir, learning security and building useful things">
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#163342"/></linearGradient><linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#a3e635"/></linearGradient></defs>
+<style>
+.cursor{animation:blink 2s steps(2,end) infinite}.node{animation:pulse 4s ease-in-out infinite}.flow{stroke-dasharray:8 14;animation:flow 7s linear infinite}@keyframes blink{0%,45%,100%{opacity:1}50%,95%{opacity:.15}}@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}@keyframes flow{to{stroke-dashoffset:-132}}@media(prefers-reduced-motion:reduce){.cursor,.node,.flow{animation:none}}
+</style>
 <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
 <g fill="none" stroke="#355363" opacity=".45"><circle cx="1080" cy="180" r="230"/><circle cx="1080" cy="180" r="170"/><circle cx="1080" cy="180" r="110"/><path d="M860 0v360M920 0v360M980 0v360M1040 0v360M1100 0v360M800 60h400M800 120h400M800 180h400M800 240h400M800 300h400"/></g>
 <rect x="64" y="62" width="44" height="5" rx="2" fill="url(#accent)"/>
-<text x="64" y="112" fill="#67e8f9" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">LEARN / BUILD / EXPLORE</text>
+<text x="64" y="112" fill="#67e8f9" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">CSE STUDENT / CURIOUS BUILDER</text>
 <text x="64" y="183" fill="#f8fafc" font-family="Arial,sans-serif" font-weight="700" font-size="54">Sajjat Hossain Abir</text>
-<text x="64" y="231" fill="#bdcbd6" font-family="Arial,sans-serif" font-size="22">Learning security. Building useful things.</text>
-<text x="64" y="299" fill="#94a3b8" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">CYBERSECURITY   /   WEBSITES   /   SOFTWARE</text>
+<text x="64" y="231" fill="#bdcbd6" font-family="Arial,sans-serif" font-size="22">Learning with curiosity. Building with purpose.</text>
+<text x="64" y="299" fill="#94a3b8" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">CYBERSECURITY   /   AI   /   SOFTWARE</text>
+<path class="flow" d="M895 80h135v45M1030 235v45h105" fill="none" stroke="#67e8f9" stroke-width="2" stroke-opacity=".55"/>
+<circle class="node" cx="895" cy="80" r="6" fill="#a3e635"/>
+<circle class="node" cx="1135" cy="280" r="6" fill="#67e8f9"/>
 <rect x="965" y="135" width="130" height="90" rx="18" fill="#0f202e" stroke="#67e8f9"/>
 <text x="1030" y="194" text-anchor="middle" fill="#a3e635" font-family="monospace" font-size="40">&lt;/&gt;</text>
+<rect class="cursor" x="1080" y="200" width="8" height="12" fill="#67e8f9"/>
 </svg>
